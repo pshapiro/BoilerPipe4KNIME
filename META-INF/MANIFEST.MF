@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Boilerpipe-Node extension for KNIME Workbench
+Bundle-SymbolicName: org.paulshapiro.boilerpipe; singleton:=true
+Bundle-Version: 1.0.2
+Bundle-ClassPath: boilerpipe.jar,
+ lib/boilerpipe-1.2.0.jar,
+ lib/nekohtml-1.9.13.jar,
+ lib/xerces-2.9.1.jar
+Bundle-Activator: org.paulshapiro.boilerpipe.BoilerpipeNodePlugin
+Bundle-Vendor: Paul Shapiro
+Require-Bundle: org.eclipse.core.runtime,
+ org.knime.workbench.core,
+ org.knime.workbench.repository,
+ org.knime.base
+Bundle-ActivationPolicy: lazy
+Export-Package: org.paulshapiro.boilerpipe
+

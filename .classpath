@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/boilerpipe-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/nekohtml-1.9.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xerces-2.9.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Paul.Shapiro/Documents/boilerpipe/boilerpipe-1.2.0/boilerpipe-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Paul.Shapiro/Documents/boilerpipe/boilerpipe-1.2.0/lib/nekohtml-1.9.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Paul.Shapiro/Documents/boilerpipe/boilerpipe-1.2.0/lib/xerces-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
